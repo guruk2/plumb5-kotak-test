@@ -1,0 +1,7 @@
+{
+  "name": "plumb5-kotak-test",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
