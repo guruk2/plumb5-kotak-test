@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "715945150436",
+    "project_id": "fcm-test-6f6bd",
+    "storage_bucket": "fcm-test-6f6bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:715945150436:android:6e839d9fd196d993f1e9f1",
+        "android_client_info": {
+          "package_name": "com.cordova.plumb.demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "715945150436-gtoh2frq1pj05pmqpm90pr7odfa91l3v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCd3EhW1Y1yivuZNAMro_lhQkZ6TwO0vXg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "715945150436-gtoh2frq1pj05pmqpm90pr7odfa91l3v.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "715945150436-anlb82gms6c113kvg5n6l2lm21mv1dqv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.cordova.plumb.demo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

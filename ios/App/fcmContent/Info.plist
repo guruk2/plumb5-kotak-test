@@ -4,6 +4,12 @@
 <dict>
 	<key>NSExtension</key>
 	<dict>
+		<key>UNNotificationExtensionDefaultContentHidden</key>
+		<string>YES</string>
+		<key>UNNotificationExtensionInitialContentSizeRatio</key>
+		<integer>1</integer>
+		<key>UNNotificationExtensionCategory</key>
+		<string>NasaDailyPhoto</string>
 		<key>NSExtensionAttributes</key>
 		<dict>
 			<key>UNNotificationExtensionCategory</key>
